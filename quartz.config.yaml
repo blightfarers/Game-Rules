@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/blightfarers/Game-Rules.git
+  baseUrl: blightfarers.github.io/Game-Rules
   ignorePatterns:
     - private
     - templates
