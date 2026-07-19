@@ -1,0 +1,7 @@
+Sickness and toxins are not a survival condition - they often have their own special effects, apply a Hindrance, mark Ailing Conditions, or directly cause the loss of a Health Level. Every illness can be different, and even cause dilemmas or provoke adventures. They may have certain conditions before they can be removed and may worsen from day to day or prevent recovery.
+
+Many illnesses are minor and have a common, generic effect. You might take a universal 1 point Hindrance or have to Lock Up a Health Level.
+
+The Hindrance applies to all checks focused on social, perceptive, mental, or physical activity, as well as to your own Daily Recovery, and the difficulty for physicians to heal you. When you would recover a Health Level, instead cure this illness.
+
+If you must Lock Up a Health Level, draw a box around one of your Health Levels - while it is locked up it cannot be lost nor healed, play the game as if you had one less Health Level in your Health Track than normal. Next time you would recover a Health Level, instead Unlock the Health Level by erasing the box. The Unlocked Health Level stays in the same state it was when it got Locked up - if you had the Health Level you have it now and if it was lost when it was locked up it must still be recovered separately.
