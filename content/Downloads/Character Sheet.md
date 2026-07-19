@@ -1,4 +1,4 @@
 
-[[Blight_Farers_CharSheet_V2.pdf]]
+[[Blight_Farers_CharSheet_V3.pdf]]
 
-![[Downloads/Blight_Farers_CharSheet_V2.pdf]]
+![[Blight_Farers_CharSheet_V3.pdf]]

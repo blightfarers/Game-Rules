@@ -1,4 +1,4 @@
-[[Blight_Farers_CharSheet_V2.pdf]]
+[[Blight_Farers_CharSheet_V3.pdf]]
 # 1. Assign Attribute Points
 - Spend 10 upgrade points to increase the value of chosen Attributes
 	- From 0 to 1, costs 1 (total 1)

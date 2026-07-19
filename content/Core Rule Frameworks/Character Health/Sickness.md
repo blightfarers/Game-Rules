@@ -1,7 +1,18 @@
-Sickness and toxins are not a survival condition - they often have their own special effects, apply a Hindrance, mark Ailing Conditions, or directly cause the loss of a Health Level. Every illness can be different, and even cause dilemmas or provoke adventures. They may have certain conditions before they can be removed and may worsen from day to day or prevent recovery.
+When a character passes through infected areas or is subjected directly to filthy environments and conditions they may contract an illness. They may also develop an illness as a cause of natural living - whether from allergies and common colds or unknown sources.
 
-Many illnesses are minor and have a common, generic effect. You might take a universal 1 point Hindrance or have to Lock Up a Health Level.
+Whenever a character Fumbles their Daily Recovery Check, or experienced situations that are likely to make them sick, they must make a Sickness Check. Sickness Checks are always made immediately after the next Morning Recovery.
 
-The Hindrance applies to all checks focused on social, perceptive, mental, or physical activity, as well as to your own Daily Recovery, and the difficulty for physicians to heal you. When you would recover a Health Level, instead cure this illness.
+- On a Miss they contract an appropriate illness or one they already have worsens.
+- On a Hit they do not get sick, or they progress removing an already existing sickness.
 
-If you must Lock Up a Health Level, draw a box around one of your Health Levels - while it is locked up it cannot be lost nor healed, play the game as if you had one less Health Level in your Health Track than normal. Next time you would recover a Health Level, instead Unlock the Health Level by erasing the box. The Unlocked Health Level stays in the same state it was when it got Locked up - if you had the Health Level you have it now and if it was lost when it was locked up it must still be recovered separately.
+Your character sheet has a Sickness Track that allows for 3 stages of sickness - Minor, Moderate, and Major.
+
+When a character first contracts an illness they mark the Minor stage on their character sheet and mark Tired. Each time the illness worsens they move the track up to the next stage and mark Tired again.
+
+While your Sickness Track is at a Moderate (or worse) stage you suffer a 1 point Hindrance on all Attribute Checks, whether passive or not. This penalty also applies against Medicine Checks made to aid you.
+
+While your Sickness Track is at a Major stage your Daily Recovery Check has modified results as your body is required to dedicate its efforts more fully towards defeating the illness. 
+
+When you make your Daily Recovery Check, the first time you would recover a lost Health Level instead move your Sickness Track back to Moderate. After Daily Recovery, still make your Sickness Check like normal.
+
+[[Medical Aid]] and [[Health Track#Starred Conditions|starred conditions]] may assist with Sickness Checks just as they do for Daily Recovery.
