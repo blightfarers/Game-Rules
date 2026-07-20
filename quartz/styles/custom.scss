@@ -2,7 +2,13 @@
 
 // put your custom CSS here!
 
-//forcing  refresh
+@media (max-width: 800px) {
+  .page > #quartz-body .sidebar.left {
+    background-color: color-mix(in srgb, var(--light) 92%, transparent) !important;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
+}
  
 table {
   margin: 1rem auto;
