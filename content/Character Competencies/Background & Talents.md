@@ -31,4 +31,4 @@ You can also learn and specialize in specific skills rather than simply develop 
 
 A Talent may not have more than 3 Ranks.
 
-That's the basics of character competencies. But, how competent you are hardly matters if you can’t [[Core Rule Frameworks/Character Health/Index|survive]].
+That's the basics of character competencies. But, how competent you are hardly matters if you can’t [[Character Health/Index|survive]].
