@@ -1,3 +1,7 @@
+---
+title: Making A Check
+---
+
 As is typical of TTRPGs, whenever a character attempts something dangerous, difficult, or uncertain, the GM may call for a Check. When you make a Check, typically you are rolling to answer one of these questions against whatever is at stake in your circumstances:
 
 1. Do you complete (this action) here and now?

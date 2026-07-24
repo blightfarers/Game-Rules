@@ -1,3 +1,8 @@
+---
+title: Character Creation
+---
+
+
 [[Blight_Farers_CharSheet_V3.pdf]]
 # 1. Assign Attribute Points
 - Spend 10 upgrade points to increase the value of chosen Attributes
@@ -6,6 +11,8 @@
 	- From 2 to 3, cost 2 (total 4)
 	- From 3 to 4, cost 2 (total 6)
 	- From 4 to 5, cost 4 (total 10)
+
+Upgrading a stat beyond 5 is not allowed for starting characters.
 # 2. Allott Background Ranks
 - Choose one Background, assign 1 to 3 ranks to it
 - Assign any leftover ranks to a 2nd or 3rd Background

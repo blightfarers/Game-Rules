@@ -1,5 +1,5 @@
 ---
-title: World Facilitator Notes
+title: Rhythm of The Session
 ---
 # Rhythm of The Session
 Your game leader will present opportunities to engage with the world. As you do, quests will reveal themselves that will include opportunities to connect, explore, fight, and solve. 
